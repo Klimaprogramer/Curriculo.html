@@ -1,1 +1,13 @@
-p{color: brown;}
+ul{
+    list-style-position: inside;
+    margin: 0%;
+    padding: 0%;
+    background-color: blue;
+}
+
+ol{
+   
+}
+li{
+    Border: 1px solid
+}

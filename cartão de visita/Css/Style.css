@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+.card{
+    
+    width: 400px;
+    height: 200px;
+    background: url(../Assets/Background.png);
+    background-size: cover;
+    padding: 1px 20px;
+    margin: auto;
+    margin-top: 20%;
+    box-sizing: border-box;
+}
+a{
+    text-decoration:none ;
+    color: black;
+}
+
+.Workana{
+list-style-image: url(../Assets/workana\ remodl.png)
+    
+}
+.GitHub {
+    list-style-image: url(../Assets/git\ remold.png);
+}
+.Linkedin{
+    list-style-image: url(../Assets/linkedin.png);
+}
